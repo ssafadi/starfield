@@ -1,3 +1,3 @@
 # starfield
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/starfield)
+Uses RxJs library to create moving dots with parallax effect mimicing starfields in old video games.
